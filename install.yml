@@ -1,0 +1,20 @@
+# This is an App Builder install configuration
+# This file will exist in the root of the package as install.yml
+
+# we use json schema
+$schema: http://json-schema.org/draft-07/schema
+$id: https://adobe.io/schemas/app-builder-templates/1
+
+categories:
+  - action
+
+# if the template implements an extension point, this top-level property is available
+extension:
+  serviceCode: dx/excshell/1
+
+# required apis, listed by their SDK code
+# any config for the api is listed under the api
+apis:
+  - code: AssetComputeSDK
+
+runtime: true
