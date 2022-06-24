@@ -1,5 +1,5 @@
 {
-  "name": "my-template",
+  "name": "@askayastha/my-template",
   "version": "0.0.1",
   "main": "src/index.js",
   "keywords": [
