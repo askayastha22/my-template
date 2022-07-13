@@ -28,7 +28,7 @@ class TheGenerator extends Generator {
   }
 
   async initializing () {
-    this.log("In initializing...")
+    // this.log("In initializing...")
   }
 
   // async prompting() {
