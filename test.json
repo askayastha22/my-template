@@ -1,0 +1,72 @@
+[
+  {
+    "domain": "https://main--helix-project-akayastha1--askayastha22.hlx.live/",
+    "rumDomain": "https://main--helix-project-akayastha--askayastha22.hlx.live/",
+    "giturl": "https://github.com/3vil3mpir3/my-website",
+    "firstCommittedDate": '2022-01-01',
+    "firstPreview": '2022-01-01',
+    "firstPublish": '2022-01-10',
+    "goLive": '2022-01-11',
+    "numRequests": 50
+  },
+  {
+    "domain": "https://main--helix-project-akayastha2--askayastha22.hlx.live/",
+    "rumDomain": "https://main--helix-project-akayastha--askayastha22.hlx.live/",
+    "giturl": "https://github.com/3vil3mpir3/my-website",
+    "firstCommittedDate": '2022-02-02',
+    "firstPreview": '2022-02-02',
+    "firstPublish": '2022-02-10',
+    "goLive": '2022-02-11',
+    "numRequests": 50
+  },
+  {
+    "domain": "https://main--helix-project-akayastha3--askayastha22.hlx.live/",
+    "rumDomain": "https://main--helix-project-akayastha--askayastha22.hlx.live/",
+    "giturl": "https://github.com/3vil3mpir3/my-website",
+    "firstCommittedDate": '2022-03-03',
+    "firstPreview": '2022-03-03',
+    "firstPublish": '2022-03-10',
+    "goLive": '2022-03-11',
+    "numRequests": 50
+  },
+  {
+    "domain": "https://main--helix-project-akayastha4--askayastha22.hlx.live/",
+    "rumDomain": "https://main--helix-project-akayastha--askayastha22.hlx.live/",
+    "giturl": "https://github.com/3vil3mpir3/my-website",
+    "firstCommittedDate": '2022-04-04',
+    "firstPreview": '2022-04-04',
+    "firstPublish": '2022-04-10',
+    "goLive": '2022-04-11',
+    "numRequests": 50
+  },
+  {
+    "domain": "https://main--helix-project-akayastha5--askayastha22.hlx.live/",
+    "rumDomain": "https://main--helix-project-akayastha--askayastha22.hlx.live/",
+    "giturl": "https://github.com/3vil3mpir3/my-website",
+    "firstCommittedDate": '2022-05-05',
+    "firstPreview": '2022-05-05',
+    "firstPublish": '2022-05-10',
+    "goLive": '2022-05-11',
+    "numRequests": 50
+  },
+  {
+    "domain": "https://main--helix-project-akayastha6--askayastha22.hlx.live/",
+    "rumDomain": "https://main--helix-project-akayastha--askayastha22.hlx.live/",
+    "giturl": "https://github.com/3vil3mpir3/my-website",
+    "firstCommittedDate": '2022-06-06',
+    "firstPreview": '2022-06-06',
+    "firstPublish": '2022-06-10',
+    "goLive": '2022-06-11',
+    "numRequests": 50
+  },
+  {
+    "domain": "https://main--helix-project-akayastha7--askayastha22.hlx.live/",
+    "rumDomain": "https://main--helix-project-akayastha--askayastha22.hlx.live/",
+    "giturl": "https://github.com/3vil3mpir3/my-website",
+    "firstCommittedDate": '2021-07-07',
+    "firstPreview": '2021-07-07',
+    "firstPublish": '2021-07-10',
+    "goLive": '2021-07-11',
+    "numRequests": 50
+  }
+]
